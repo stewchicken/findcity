@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author i15985
+ * @author yw
  */
 public class FindNearbyDECity {
 
